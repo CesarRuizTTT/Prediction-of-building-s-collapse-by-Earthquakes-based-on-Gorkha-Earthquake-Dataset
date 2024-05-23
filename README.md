@@ -1,3 +1,5 @@
+Prediction of building’s collapse from effect of Earthquakes
+
 The purpose of this study is to predict if a building is subject to collapse by the effect of 
 earthquakes, through machine learning algorithms, undertaking a comparison of their 
 perform. This study approaches the problem as a supervised binary classifications case, 
